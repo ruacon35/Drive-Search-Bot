@@ -9,5 +9,5 @@ pyOpenSSL
 cargo
 setuptools_rust docker-compose
 Rust
-cryptography==2.8
+cryptography==3.4.6
 telegraph

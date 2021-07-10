@@ -6,6 +6,6 @@ google-auth-oauthlib>=0.4.1,<0.10.0
 python-dotenv>=0.10
 pyOpenSSL
 cargo
-Rust>=1.41.0
+Rust
 cryptography==3.4.6
 telegraph

@@ -1,5 +1,5 @@
 {
-    "name": "Drive Search Bot",
+    "name": "ltducdrivesearch",
     "description": "Search file inside the google drive",
     "logo": "https://i.ibb.co/m6V57dy/ds.jpg",
     "keywords": [
@@ -8,21 +8,21 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/devillD/Drive-Search-Bot.git",
-    "website": "https://github.com/devillD/Drive-Search-Bot/tree/master",
-    "success_url": "https://github.com/devillD/Drive-Search-Bot/tree/master/README.md",
+    "repository": "https://github.com/ruacon35/Drive-Search-Bot.git",
+    "website": "https://github.com/ruacon35/Drive-Search-Bot/tree/master",
+    "success_url": "https://github.com/ruacon35/Drive-Search-Bot/tree/master/README.md",
     "stack": "container",
       "env": {
       "BOT_TOKEN": {
-        "description": "The telegram bot token that you get from @BotFather.",
+        "description": "1639796469:AAGOqheMdHax_L9UvfVyophj8lXpy-BwyBQ",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The Telegram user ID (not username) of the owner of the bot.",
+        "description": "426728887",
         "required": true
       },
       "TELEGRAPH_TOKEN": {
-        "description": "Generate using python3 generate_telegraph_token.py.",
+        "description": "2c926c79588dae5f3846f46712c4f3b1b13877ac97561a28bf6ede7e20c9",
         "required": true
       }
     }
